@@ -71,6 +71,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# API Keys and Config (NEVER commit these!)
+/[Aa]ssets/[Rr]esources/[Cc]onfig/api_config.json
+/[Aa]ssets/[Rr]esources/[Cc]onfig/*.json
+!**/api_config.json.example
+
 # macOS
 .DS_Store
 .DS_Store?

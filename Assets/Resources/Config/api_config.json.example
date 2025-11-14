@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "sk-your-api-key-here",
+  "endpoint": "https://api.openai.com/v1/chat/completions",
+  "provider": "openai"
+}
+
